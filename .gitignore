@@ -1,0 +1,4 @@
+# Keep presentation working files local.
+/output/
+
+.DS_Store

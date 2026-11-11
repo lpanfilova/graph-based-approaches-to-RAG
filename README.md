@@ -7,7 +7,7 @@ An overview of how graphs support knowledge representation, retrieval, prompting
 | Artifact | Link |
 | --- | --- |
 | Medium article | [RAG Can Find Relevant Documents and Still Miss the Answer](https://medium.com/@liliya.panfilova_7656/rag-can-find-relevant-documents-and-still-miss-the-answer-ccd49f9ac24b?postPublishedType=repub) |
-| Slide deck | Link |
+| Slide deck | [GraphRAG PowerPoint](GraphRAG.pptx) |
 | Recorded presentation | Link |
 
 ## Topic Overview
